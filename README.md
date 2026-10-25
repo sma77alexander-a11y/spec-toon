@@ -62,7 +62,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to propose changes and when an 
 
 ## Resources
 
-- **Glossary:** [CONTEXT.md](./CONTEXT.md) – Canonical name for every concept, and the wordings to avoid
+- **Glossary:** [GLOSSARY.md](./GLOSSARY.md) – Canonical name for every concept, and the wordings to avoid
 - **Examples:** [examples/](./examples/) – Working examples organized by feature
 - **Test Fixtures:** [tests/fixtures/](./tests/fixtures/) – Reference test fixtures
 - **Changelog:** [CHANGELOG.md](./CHANGELOG.md) – Version history and changes
